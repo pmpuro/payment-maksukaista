@@ -1,5 +1,5 @@
 # Payment Maksukaista
-[![Build Status](https://travis-ci.org/[pmpuro]/[payment-maksukaista].png)](https://travis-ci.org/[pmpuro]/[payment-maksukaista])
+[![Build Status](https://travis-ci.org/pmpuro/payment-maksukaista.png)](https://travis-ci.org/pmpuro/payment-maksukaista)
 
 ## Overview
 This module can be used for making payments through Maksukaista.fi API.
