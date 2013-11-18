@@ -1,0 +1,21 @@
+{
+  "version": "0.1.0",
+  "name": "payment-maksukaista",
+  "author": "Panu Puro",
+  "email" : "panu.puro@gmail.com",
+  "description": "API wrapper for Maksukaista.fi payments",
+  "private": true,
+  "engines": [
+    "node >= 0.8"
+  ],
+  "main": "./lib/payment.js",
+  "scripts": {
+    "test": "jasmine-node test"
+  },
+  "dependencies": {
+    "crypto": "*"
+  },
+  "devDependencies": {
+    "jasmine-node": "*"
+  } 
+}
