@@ -4,7 +4,8 @@
   "author": "Panu Puro",
   "email" : "panu.puro@gmail.com",
   "description": "API wrapper for Maksukaista.fi payments",
-  "private": true,
+  "url": "https://github.com/pmpuro/payment-maksukaista",
+  "private": false,
   "engines": [
     "node >= 0.8"
   ],
@@ -17,5 +18,9 @@
   },
   "devDependencies": {
     "jasmine-node": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pmpuro/payment-maksukaista.git"
   } 
 }
