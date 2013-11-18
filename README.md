@@ -84,9 +84,9 @@ Example routes:
 	});
 
 ### Make the payment
-A payment is performent in two phases. 
+A payment is performed in two phases. 
 First, all data is gathered and generated for the payment.
-It is archieved by calling the createPayment function.
+It is achieved by calling the createPayment function.
 
 	var paymentFormData = payment.createPayment(
 		true,
